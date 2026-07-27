@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - GênioQuiz</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background:#f4f7fb;
+            color:#333;
+            line-height:1.7;
+        }
+
+        .container{
+            max-width:900px;
+            margin:50px auto;
+            background:#fff;
+            padding:40px;
+            border-radius:12px;
+            box-shadow:0 10px 25px rgba(0,0,0,.08);
+        }
+
+        h1{
+            color:#2563eb;
+            margin-bottom:10px;
+        }
+
+        .date{
+            color:#666;
+            margin-bottom:30px;
+            font-size:.95rem;
+        }
+
+        h2{
+            margin-top:28px;
+            margin-bottom:10px;
+            color:#1e3a8a;
+            border-left:5px solid #2563eb;
+            padding-left:10px;
+        }
+
+        p{
+            margin-bottom:15px;
+            text-align:justify;
+        }
+
+        ul{
+            margin-left:25px;
+            margin-bottom:15px;
+        }
+
+        li{
+            margin-bottom:8px;
+        }
+
+        footer{
+            margin-top:40px;
+            text-align:center;
+            color:#777;
+            font-size:.9rem;
+        }
+
+        .email{
+            font-weight:bold;
+            color:#2563eb;
+        }
+
+        @media(max-width:700px){
+
+            .container{
+                margin:20px;
+                padding:25px;
+            }
+
+            h1{
+                font-size:1.8rem;
+            }
+
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Política de Privacidade</h1>
+<h2>GênioQuiz</h2>
+
+<p class="date">
+Última atualização: 27 de julho de 2026
+</p>
+
+<p>
+O <strong>GênioQuiz</strong> valoriza a privacidade dos seus usuários.
+Esta Política de Privacidade explica de forma simples quais informações são tratadas durante o uso do aplicativo.
+</p>
+
+<h2>1. Coleta de dados</h2>
+
+<p>
+O GênioQuiz foi desenvolvido para funcionar totalmente offline.
+</p>
+
+<p>
+O aplicativo:
+</p>
+
+<ul>
+<li>Não exige cadastro.</li>
+<li>Não solicita login.</li>
+<li>Não coleta nome, e-mail ou telefone.</li>
+<li>Não coleta localização.</li>
+<li>Não solicita documentos pessoais.</li>
+<li>Não armazena informações pessoais dos usuários.</li>
+</ul>
+
+<h2>2. Funcionamento</h2>
+
+<p>
+Todo o conteúdo do jogo é executado localmente no dispositivo do usuário.
+As perguntas, respostas e demais recursos funcionam sem necessidade de conexão com servidores próprios.
+</p>
+
+<h2>3. Compartilhamento de informações</h2>
+
+<p>
+Como o aplicativo não coleta dados pessoais, nenhuma informação é compartilhada com terceiros.
+</p>
+
+<h2>4. Permissões</h2>
+
+<p>
+O GênioQuiz utiliza apenas as permissões estritamente necessárias para seu funcionamento.
+Caso futuras versões passem a utilizar novos recursos do dispositivo, esta Política será atualizada.
+</p>
+
+<h2>5. Crianças</h2>
+
+<p>
+O aplicativo pode ser utilizado por usuários de qualquer idade.
+Como não há coleta de dados pessoais, não ocorre tratamento de informações de crianças ou adolescentes.
+</p>
+
+<h2>6. Alterações nesta Política</h2>
+
+<p>
+Esta Política poderá ser atualizada futuramente para refletir melhorias no aplicativo, alterações legais ou mudanças de funcionalidades.
+Sempre que houver modificações relevantes, a versão atualizada será publicada nesta página.
+</p>
+
+<h2>7. Contato</h2>
+
+<p>
+Caso tenha dúvidas sobre esta Política de Privacidade, entre em contato através do e-mail:
+</p>
+
+<p class="email">
+seuemail@exemplo.com
+</p>
+
+<footer>
+© 2026 GênioQuiz — Todos os direitos reservados.
+</footer>
+
+</div>
+
+</body>
+</html>
+
